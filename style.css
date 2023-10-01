@@ -1,0 +1,73 @@
+body{
+margin: 0px;
+padding: 0px;
+}
+.mafuj{
+  background-color: blue;
+  width: 100%;
+  display: flex;
+
+}
+.rakib{
+
+}
+.rakib img{
+  margin-top: 10px;
+  margin-left: 20px;
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+
+
+
+}
+.masud{
+
+  margin-left: 260px;
+  margin-top: 10px;
+}
+.mondol{
+  
+  margin-top: 10px;
+  margin-left: 10px;
+  
+}
+.news{
+  background-color: green;
+  display: flex;
+  vertical-align: middle;
+  margin-top: 5px;
+  
+}
+.new-title{
+  background-color: rgb(0, 255, 68);
+  margin: 0;
+  padding: 0;
+  
+  
+}
+.rakib-2{
+  color: white;
+  margin-top: 7px;
+  font-size: 22px;
+}
+.fox{
+  background-color: rgb(0, 255, 68);
+  margin: 0;
+  padding: 0;
+  margin-top: 5px;
+}
+.wapping{
+  max-width: 1200px;
+  margin:auto;
+  background-color: aliceblue;
+}
+.menu ul{
+  text-align: center
+}
+.menu ul li{
+  
+}
+.menu ul li a{
+  padding: 10px 30px;
+}
